@@ -1,0 +1,43 @@
+.secondSectionWrap {
+    background-color: #ECECEC;
+    z-index: 1;
+    position: relative;
+    padding: 140px 180px 270px 180px;
+}
+
+.imageSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.textSection {
+    width: 50%;
+}
+
+.textSection p {
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.textSection h4 {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    margin-top: 48px;
+    margin-bottom: 100px;
+}
+.textSection span{
+    margin-left: 22px;
+}
+
+.brandImage {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+

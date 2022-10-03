@@ -1,0 +1,39 @@
+.sliderSection {
+    /* background-color: #ECECEC; */
+    padding: 0 94px;
+    margin-top: -270px;
+}
+
+.sliderSection h1 {
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 16px;
+    margin-top: 120px;
+}
+
+.sliderSection p {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    width: 31%;
+    margin: auto;
+    opacity: 0.7;
+}
+.wineCardSlider{
+    margin-top: 94px;
+}
+.wineCardSlider .slick-arrow{
+    display: none;
+}
+.sliderSection .bottomImageBox img {
+    width: 100%;
+}
+.sliderSection .bottomImageBox{
+    z-index: 999999;
+    position: relative;
+}

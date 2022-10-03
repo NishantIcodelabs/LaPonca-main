@@ -1,0 +1,13 @@
+.scrollBox {
+    width: 100%;
+    text-align: center;
+    height: 765px;
+    position: relative;
+}
+
+.roundBrandBox {
+    position: absolute;
+    width: 100%;
+    top: 25%;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.wineHeading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.wineCard img {
+    width: 100%;
+}
+
+.wineCard {
+    width: 400px;
+}

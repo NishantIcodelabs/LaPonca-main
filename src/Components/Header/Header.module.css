@@ -1,0 +1,22 @@
+.menuItemsBox {
+    flex-grow: unset !important;
+}
+
+.menuItemsBox .menuName {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.mainLogo {
+    position: absolute;
+}
+
+.headerbox {
+    padding: 30px;
+    z-index: 99;
+}
